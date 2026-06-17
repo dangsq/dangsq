@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Ph.D. candidate** at the **Shanghai Innovation Institute & Tongji University**, working at the intersection of generative AI, computer graphics, and human-computer interaction. My research focuses on developing intelligent systems that bridge the gap between digital creation and real-world fabrication, making creative tools more accessible.
+I'm a **Ph.D. candidate** at the **Shanghai Innovation Institute & Tongji University**, working at the intersection of generative AI, computer graphics, and human-computer interaction. My research focuses on developing intelligent systems that bridge the gap between human brain thoughts and real-world creation, making creative tools more accessible.
 
 My work spans:
 - **Generative AI for 2D/3D Content Creation**.
